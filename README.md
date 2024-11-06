@@ -45,8 +45,7 @@ Welcome to the **Breakout Game** – a classic brick-breaking arcade game built 
 ├── paddle.py              # Paddle class for player control
 ├── brick.py               # Brick class for brick grid generation
 ├── scoreboard.py          # Scoreboard for tracking score and lives
-├── border.py              # Border for game boundary setup
-└── README.md              # Project README with details
+└──border.py               # Border for game boundary setup
 ```
 
 ## 🛠️ Key Components

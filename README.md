@@ -61,5 +61,7 @@ Welcome to the **Breakout Game** – a classic brick-breaking arcade game built 
 Press `Space` to start the game. Use the arrow keys to move the paddle and keep the ball in play. Destroy all bricks to win the game or try again if you lose all lives.
 
 ---
+![BreakOut Game Demo](assets/demo.gif)
+---
 
-Enjoy the challenge, and happy brick-breaking!
+## Enjoy the challenge, and happy brick-breaking!
